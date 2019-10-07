@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StartWatch</string>
+    <string name="start_button">Пуск</string>
+    <string name="pause_button">Пауза</string>
+    <string name="sbros_button">Сброс</string>
+    <string name="enter_activitytwo">Запустить вторую активность</string>
+    <string name="close_activity">Закрыть активити</string>
+</resources>
